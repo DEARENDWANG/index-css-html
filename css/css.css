@@ -16,8 +16,9 @@
     background-position: center 0;
     
 }
-
-
+.x2{ letter-spacing:2px}
+.x5{ letter-spacing:5px}
+.x10{ letter-spacing:10px}
 /* start editing from here */
 a{text-decoration:none;}
 .txt-rt{text-align:right;}/* text align right */
